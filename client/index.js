@@ -25,3 +25,5 @@ app.use(router());
  */
 
 render(app, document.body);
+
+console.log('hey');
